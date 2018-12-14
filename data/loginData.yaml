@@ -1,0 +1,24 @@
+- test1:
+    phone: '15521067546'
+    password: '123456'
+    code: '8888'
+- test2:
+    phone: '15598765432'
+    password: '123456'
+    code: '8888'
+- test3:
+    phone: '333333333'
+    password: '123456'
+    code: '3333'
+- test4:
+    phone: '444444444'
+    password: '123456'
+    code: '444'
+- test5:
+    phone: '55555555'
+    password: '123456'
+    code: '5555'
+- test6:
+    phone: '6666666'
+    password: '123456'
+    code: '6666'

@@ -1,0 +1,91 @@
+{
+  "uid" : "3a8d4f3db2943a29",
+  "name" : "TestHh.test_22",
+  "fullName" : "cases.test_hh.TestHh.test_22",
+  "historyId" : "762dc29fad82af4698808f94f45bd8ad",
+  "time" : {
+    "start" : 1544753863451,
+    "stop" : 1544753863484,
+    "duration" : 33
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "测试用例22",
+      "time" : {
+        "start" : 1544753863452,
+        "stop" : 1544753863484,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf50072697f0e2f3",
+        "name" : "步骤描述",
+        "source" : "cf50072697f0e2f3.txt",
+        "type" : "text/plain",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WIN-UUEMMFGFIFO"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "6696-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "cases.test_hh"
+  }, {
+    "name" : "testClass",
+    "value" : "cases.test_hh"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestHh.test_22"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_hh"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a8d4f3db2943a29.json",
+  "parameterValues" : [ ]
+}
