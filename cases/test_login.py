@@ -14,7 +14,6 @@ class TestLogin:
 
     def teardown(self):
         self.login_page.action_quit()
-
     
     @pytest.mark.parametrize('username, password, code', LOGIN_DATA)
     def test_1(self, username, password, code):
